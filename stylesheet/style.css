@@ -1,0 +1,23 @@
+.consultation-btn {
+    background-color: #B68C5A;
+    color: white;
+    border-radius: 3px;
+    border: 0;
+    height: 48px;
+    width: 180px;
+}
+
+.card-size {
+    height: 401px;
+    width: 390px;
+}
+
+.card-img {
+    width: 71.8px;
+    height: 72.34px;
+}
+
+ul,
+li {
+    text-decoration: none;
+}
